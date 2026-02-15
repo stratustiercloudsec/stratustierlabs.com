@@ -21,7 +21,7 @@
     <nav class="navbar navbar-default bootsnav navbar-top header-light background-transparent nav-box-width white-link navbar-expand-lg">
         <div class="container-fluid nav-header-container">
             <div class="col-auto ps-0">
-                <a href="index.html" class="logo">
+                <a href="index" class="logo">
                     <img src="images/brand/st-logo-official.png" class="logo-dark" alt="STRATUSTIER Innovation Labs">
                     <img src="images/brand/st-logo-official.png" class="logo-light default" alt="STRATUSTIER Innovation Labs">
                 </a>
@@ -34,9 +34,9 @@
                 </button>
                 <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
                     <ul class="nav navbar-nav no-margin alt-font text-normal">
-                        <li><a href="about.html">How We Work</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="contact.html">Get in Touch</a></li>
+                        <li><a href="about">How We Work</a></li>
+                        <li><a href="services">Services</a></li>
+                        <li><a href="contact">Get in Touch</a></li>
                     </ul>
                 </div>
             </div>
@@ -206,7 +206,7 @@
 
             <!-- Logo + Description -->
             <div class="col-lg-4 margin-40px-bottom">
-               <a href="index.html"><img src="images/brand/st-logo-official.png" alt="StratusTier Innovation Labs" style="max-width:260px; margin-bottom:20px;"></a>
+               <a href="index"><img src="images/brand/st-logo-official.png" alt="StratusTier Innovation Labs" style="max-width:260px; margin-bottom:20px;"></a>
                 
                 <p style="color:#cfd6e4; font-size:14px; line-height:1.7;">
                     StratusTier Innovation Labs delivers secure AI and AWS cloud solutions 
@@ -222,16 +222,16 @@
 
                   <ul style="list-style:none; padding:0; margin:0;">
                     <li style="margin-bottom:10px;">
-                        <a href="index.html" style="color:#cfd6e4; text-decoration:none;">Home</a>
+                        <a href="index" style="color:#cfd6e4; text-decoration:none;">Home</a>
                     </li>
                     <li style="margin-bottom:10px;">
-                        <a href="about.html" style="color:#cfd6e4; text-decoration:none;">About</a>
+                        <a href="about" style="color:#cfd6e4; text-decoration:none;">About</a>
                     </li>
                     <li style="margin-bottom:10px;">
-                        <a href="services.html" style="color:#cfd6e4; text-decoration:none;">Services</a>
+                        <a href="services" style="color:#cfd6e4; text-decoration:none;">Services</a>
                     </li>
                     <li>
-                        <a href="contact.html" style="color:#cfd6e4; text-decoration:none;">Contact</a>
+                        <a href="contact" style="color:#cfd6e4; text-decoration:none;">Contact</a>
                     </li>
                 </ul>
             </div>
