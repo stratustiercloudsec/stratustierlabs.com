@@ -1,0 +1,12 @@
+DirectoryIndex index
+
+RewriteEngine On
+
+# 1. Remove /index from the URL if a user types it manually
+RewriteCond %{THE_REQUEST} /index [NC]
+RewriteRule ^index$ / [R=301,L]
+
+# 2. Map clean URLs to their extensionless files
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/?$ $1 [L]
