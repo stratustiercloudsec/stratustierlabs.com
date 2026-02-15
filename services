@@ -1,12 +1,14 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-    <title>Our Capabilities | STRATUSTIER Innovation Labs | AI, AWS & Secure Digital Systems</title>
+    <title>STRATUSTIER Innovation Labs | AI, Cloud & Secure Portals</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
     <meta name="author" content="STRATUSTIER Innovation Labs">
-    <meta name="description" content="StratusTier Innovation Labs delivers AI-driven systems, AWS cloud architecture, and secure digital platforms engineered for performance, governance, and measurable operational impact.">
+    <meta name="description" content="StratusTier Innovation Labs delivers enterprise-grade AI systems, secure AWS cloud architecture, and compliant digital portals for small to mid-sized organizations and government entities.">
+    
+    <link rel="icon" type="image/png" href="/images/brand/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="css/bootsnav.css">
     <link rel="stylesheet" type="text/css" href="css/font-icons.min.css">
@@ -46,7 +48,7 @@
 
 <!-- HERO -->
 
-<section class="wow animate__fadeIn cover-background background-position-top top-space" style="background-image:url('images/banners/intelligent-cloud.jpg');">
+<section class="wow animate__fadeIn cover-background background-position-top top-space" style="background-image:url('images/banners/production_stage.jpg'); background-size: cover; background-position: center; padding: 100px 0;">
     <div class="opacity-medium bg-extra-dark-gray"></div>
     <div class="container position-relative">
         <div class="row">
