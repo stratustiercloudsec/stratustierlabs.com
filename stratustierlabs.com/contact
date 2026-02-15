@@ -1,0 +1,285 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <title>Strategic Consultation | STRATUSTIER Innovation Labs | AI, AWS & Secure Portals</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
+    <meta name="author" content="STRATUSTIER Innovation Labs">
+    <meta name="description" content="Request a strategic consultation with StratusTier Innovation Labs for AI systems, AWS cloud architecture, and secure digital platforms for government and growing organizations.">
+    
+    <link rel="stylesheet" type="text/css" href="css/bootsnav.css">
+    <link rel="stylesheet" type="text/css" href="css/font-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="css/theme-vendors.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar navbar-default bootsnav navbar-top header-light background-transparent nav-box-width white-link navbar-expand-lg">
+        <div class="container-fluid nav-header-container">
+            <div class="col-auto ps-0">
+                <a href="index.html" class="logo">
+                    <img src="images/brand/st-logo-official.png" class="logo-dark" alt="STRATUSTIER Innovation Labs">
+                    <img src="images/brand/st-logo-official.png" class="logo-light default" alt="STRATUSTIER Innovation Labs">
+                </a>
+            </div>
+            <div class="col accordion-menu pe-0 pe-md-3">
+                <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#navbar-collapse-toggle-1">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
+                    <ul class="nav navbar-nav no-margin alt-font text-normal">
+                        <li><a href="about.html">How We Work</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="contact.html">Get in Touch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<!-- HERO -->
+
+<section class="p-0 one-third-screen position-relative wow animate__fadeIn">
+    <div class="opacity-medium bg-extra-dark-gray z-index-0"></div>
+    <div class="container position-relative">
+        <div class="row">
+            <div class="col-12 one-third-screen page-title-large d-flex flex-column justify-content-center text-center">
+
+                <span class="d-block text-white-2 opacity6 margin-10px-bottom alt-font">
+                    Strategic Technology Partnership
+                </span>
+
+                <h1 class="alt-font text-white-2 font-weight-600 w-60 md-w-80 sm-w-100 mx-auto mb-0">
+                    Let’s Discuss Your Modernization Goals
+                </h1>
+
+                <p class="w-75 text-white-2 mx-auto sm-w-100 margin-20px-top">
+                    Whether you're evaluating AI workflow automation, AWS cloud architecture, or secure portal development, 
+                    we’ll help you design a practical roadmap aligned with your operational and compliance requirements.
+                </p>
+
+            </div>
+            <div class="down-section text-center">
+                <a href="#start-your-project" class="inner-link">
+                    <i class="ti-arrow-down icon-extra-small text-white-2 bg-deep-pink padding-15px-all rounded-circle"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-auto-fade swiper z-index-minus2 position-absolute top-0 w-100 h-100"
+         data-slider-options='{ "loop": true, "effect":"fade", "slidesPerView": "1", "autoplay": { "delay": 5000 } }'>
+        <div class="swiper-wrapper">
+            <div class="swiper-slide cover-background one-third-screen" style="background-image:url('images/banners/hp-banner-2.jpg');"></div>
+            <div class="swiper-slide cover-background one-third-screen" style="background-image:url('images/banners/contact-hero-friendly.jpg');"></div>
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT INFO GRID -->
+
+<section class="no-padding bg-extra-dark-gray">
+    <div class="container-fluid">
+        <div class="row g-0 row-cols-1 row-cols-lg-2">
+
+            <div class="col p-0 cover-background md-h-450px sm-h-350px wow animate__fadeInLeft"
+                 style="background: url('images/banners/texting-on-phone.png')"></div>
+
+            <div class="col p-0 wow animate__fadeInRight">
+                <div class="row g-0 row-cols-1 row-cols-sm-2 m-0">
+
+                    <div class="col bg-extra-dark-gray d-flex flex-column justify-content-center align-items-center text-center h-350px">
+                        <i class="icon-map text-deep-pink icon-medium margin-25px-bottom"></i>
+                        <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">
+                            Headquarters
+                        </div>
+                        <p class="w-70 mx-auto text-medium">
+                            Atlanta, Georgia<br>
+                            Serving Nationwide
+                        </p>
+                    </div>
+
+                    <div class="col bg-black d-flex flex-column justify-content-center align-items-center text-center h-350px">
+                        <i class="icon-envelope text-deep-pink icon-medium margin-25px-bottom"></i>
+                        <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">
+                            Consultation Requests
+                        </div>
+                        <p class="mx-auto text-medium mb-0">
+                            <a href="mailto:admin@stratustiercloudsec.com" class="text-white">
+                                admin@stratustiercloudsec.com
+                            </a>
+                        </p>
+                    </div>
+
+                    <div class="col bg-black d-flex flex-column justify-content-center align-items-center text-center h-350px">
+                        <i class="icon-clock text-deep-pink icon-medium margin-25px-bottom"></i>
+                        <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">
+                            Availability
+                        </div>
+                        <p class="mx-auto text-medium mb-0">
+                            Monday – Friday<br>
+                            9:00 AM – 6:00 PM EST
+                        </p>
+                    </div>
+
+                    <div class="col bg-extra-dark-gray d-flex flex-column justify-content-center align-items-center text-center h-350px">
+                        <i class="icon-shield text-deep-pink icon-medium margin-25px-bottom"></i>
+                        <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">
+                            Security & Confidentiality
+                        </div>
+                        <p class="w-70 mx-auto text-medium">
+                            All inquiries are handled with strict confidentiality and security-first principles.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FORM SECTION -->
+
+<section class="wow animate__fadeIn" id="start-your-project">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-xl-6 col-lg-7 col-md-9 text-center margin-eight-bottom">
+                <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase">
+                    Request a Strategic Consultation
+                </h5>
+                <p>
+                    Share a few details about your initiative, and we’ll follow up with next steps, 
+                    timeline expectations, and engagement options.
+                </p>
+            </div>
+        </div>
+
+        <form id="project-contact-form" action="email-templates/contact-form.php" method="post">
+            <div class="row">
+
+                <div class="col-md-6">
+                    <input type="text" name="name" placeholder="Full Name *" class="big-input required">
+                </div>
+
+                <div class="col-md-6">
+                    <input type="text" name="organization" placeholder="Organization / Agency Name" class="big-input">
+                </div>
+
+                <div class="col-md-6">
+                    <input type="email" name="email" placeholder="Professional Email *" class="big-input required">
+                </div>
+
+                <div class="col-md-6">
+                    <div class="select-style big-select">
+                        <select name="service" class="bg-transparent mb-0">
+                            <option value="">Area of Interest</option>
+                            <option value="AI Systems">AI Agentic & Generative Systems</option>
+                            <option value="Cloud Architecture">AWS Cloud Architecture & Administration</option>
+                            <option value="Systems Integration">Systems Modernization & Integration</option>
+                            <option value="Portals">Secure Portals & Digital Platforms</option>
+                            <option value="Advisory">Strategic Technology Advisory</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <textarea name="comment" rows="6" placeholder="Describe your goals, challenges, or modernization objectives..." class="big-textarea"></textarea>
+                </div>
+
+                <div class="col-12 text-center">
+                    <button type="submit" class="btn btn-transparent-dark-gray btn-large margin-20px-top submit">
+                        Submit Consultation Request
+                    </button>
+                </div>
+
+            </div>
+        </form>
+
+    </div>
+</section>
+
+<!-- FOOTER -->
+
+<footer style="background-color:#0a0f1c; padding:60px 0 30px 0;">
+
+    <div class="container">
+        <div class="row align-items-start">
+
+            <!-- Logo + Description -->
+            <div class="col-lg-4 margin-40px-bottom">
+                <a href="index.html"><img src="images/brand/st-logo-official.png" alt="StratusTier Innovation Labs" style="max-width:260px; margin-bottom:20px;"></a>
+                
+                <p style="color:#cfd6e4; font-size:14px; line-height:1.7;">
+                    StratusTier Innovation Labs delivers secure AI and AWS cloud solutions 
+                    engineered for scalability, compliance, and operational excellence.
+                </p>
+            </div>
+
+            <!-- Main Menu Links -->
+            <div class="col-lg-4 col-md-6 margin-40px-bottom">
+                <h6 style="color:#ffffff; font-weight:600; margin-bottom:20px;">
+                    Navigation
+                </h6>
+
+                 <ul style="list-style:none; padding:0; margin:0;">
+                    <li style="margin-bottom:10px;">
+                        <a href="index.html" style="color:#cfd6e4; text-decoration:none;">Home</a>
+                    </li>
+                    <li style="margin-bottom:10px;">
+                        <a href="about.html" style="color:#cfd6e4; text-decoration:none;">About</a>
+                    </li>
+                    <li style="margin-bottom:10px;">
+                        <a href="services.html" style="color:#cfd6e4; text-decoration:none;">Services</a>
+                    </li>
+                    <li>
+                        <a href="contact.html" style="color:#cfd6e4; text-decoration:none;">Contact</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Contact Info -->
+            <div class="col-lg-4 col-md-6 margin-40px-bottom">
+                <h6 style="color:#ffffff; font-weight:600; margin-bottom:20px;">
+                    Contact
+                </h6>
+
+                <p style="color:#cfd6e4; font-size:14px; margin-bottom:10px;">
+                    Email: info@stratustier.com
+                </p>
+
+                <p style="color:#cfd6e4; font-size:14px;">
+                    Serving Government & Enterprise Clients Nationwide
+                </p>
+            </div>
+
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="row">
+            <div class="col-12 text-center" style="border-top:1px solid #1e2638; padding-top:20px; margin-top:20px;">
+                <p style="color:#8c96ab; font-size:13px; margin:0;">
+                    © 2026 StratusTier Innovation Labs. All Rights Reserved.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/bootsnav.js"></script>
+<script src="js/theme-vendors.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,362 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <title>STRATUSTIER Innovation Labs | AI, Cloud & Secure Portals</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
+    <meta name="author" content="STRATUSTIER Innovation Labs">
+    <meta name="description" content="StratusTier Innovation Labs delivers enterprise-grade AI systems, secure AWS cloud architecture, and compliant digital portals for small to mid-sized organizations and government entities.">
+    
+    <link rel="stylesheet" type="text/css" href="css/bootsnav.css">
+    <link rel="stylesheet" type="text/css" href="css/font-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="css/theme-vendors.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar navbar-default bootsnav navbar-top header-light background-transparent nav-box-width white-link navbar-expand-lg">
+        <div class="container-fluid nav-header-container">
+            <div class="col-auto ps-0">
+                <a href="index.html" class="logo">
+                    <img src="images/brand/st-logo-official.png" class="logo-dark" alt="STRATUSTIER Innovation Labs">
+                    <img src="images/brand/st-logo-official.png" class="logo-light default" alt="STRATUSTIER Innovation Labs">
+                </a>
+            </div>
+            <div class="col accordion-menu pe-0 pe-md-3">
+                <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#navbar-collapse-toggle-1">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
+                    <ul class="nav navbar-nav no-margin alt-font text-normal">
+                        <li><a href="about.html">How We Work</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="contact.html">Get in Touch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<!-- HERO SECTION -->
+
+<section class="p-0 main-slider wow animate__fadeIn">
+    <div class="swiper full-screen white-move" data-slider-options='{ "loop": true, "slidesPerView": "1", "autoplay": { "delay": 5000 } }'>
+        <div class="swiper-wrapper">
+
+            <!-- Slide 1 -->
+            <div class="swiper-slide cover-background" style="background-image:url('images/banners/hp-banner-3.jpg');">
+                <div class="opacity-extra-medium bg-black"></div>
+                <div class="container position-relative h-100">
+                    <div class="row h-100">
+                        <div class="col-12 d-flex flex-column justify-content-center text-center">
+                            
+                            <h6 class="text-very-light-gray font-weight-300 margin-two-bottom">
+                                Enterprise-Grade AI & Cloud for Growing Organizations
+                            </h6>
+
+                            <div class="alt-font text-white text-uppercase font-weight-700 title-extra-large margin-two-bottom w-70 mx-auto">
+                                STRATUSTIER Innovation Labs
+                            </div>
+
+                            <p class="text-white opacity-8 w-60 mx-auto margin-20px-bottom">
+                                We design intelligent AI systems, resilient AWS cloud environments, and secure digital platforms for small to mid-sized organizations and public sector teams.
+                            </p>
+
+                            <div class="btn-dual">
+                                <a href="#services" class="btn btn-transparent-white btn-small">Explore Our Capabilities</a>
+                                <a href="contact.html" class="btn btn-transparent-white btn-small">Schedule a Strategy Call</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slide 2 -->
+            <div class="swiper-slide cover-background" style="background-image:url('images/banners/hp-banner-1.png');">
+                <div class="opacity-extra-medium bg-black"></div>
+                <div class="container position-relative h-100">
+                    <div class="row h-100">
+                        <div class="col-12 d-flex flex-column justify-content-center text-center">
+
+                            <h6 class="text-very-light-gray font-weight-300 margin-two-bottom">
+                                Operational Efficiency. Intelligent Automation.
+                            </h6>
+
+                            <div class="alt-font text-white text-uppercase font-weight-700 title-extra-large margin-two-bottom w-70 mx-auto">
+                                AI That Works for Your Team
+                            </div>
+
+                            <p class="text-white opacity-8 w-60 mx-auto margin-20px-bottom">
+                                From agentic AI systems to workflow orchestration, we build production-ready solutions that reduce manual effort, improve decision-making, and scale with your organization.
+                            </p>
+
+                            <div class="btn-dual">
+                                <a href="#services" class="btn btn-transparent-white btn-small">AI & Automation Services</a>
+                                <a href="#sectors" class="btn btn-transparent-white btn-small">Who We Serve</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- ABOUT -->
+
+<section id="about" class="border-bottom border-color-extra-light-gray">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-9 text-center">
+                <h5 class="alt-font text-extra-dark-gray font-weight-700 text-uppercase">
+                    Technology Built for Operational Impact
+                </h5>
+                <p class="text-large line-height-30 text-medium-gray">
+                    StratusTier Innovation Labs partners with small to medium-sized organizations and government entities to modernize operations through secure, scalable technology.
+                    <br><br>
+                    We specialize in intelligent AI systems, secure AWS cloud architecture, and citizen and customer-facing digital platforms.
+                    <br><br>
+                    Our focus is execution — not experimentation. We deliver production-ready solutions aligned with your budget, regulatory environment, and long-term growth strategy.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SERVICES -->
+
+<section id="services" class="bg-light-gray">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 text-center margin-eight-bottom">
+                <h5 class="alt-font text-extra-dark-gray text-uppercase font-weight-700">
+                    Core Capabilities
+                </h5>
+            </div>
+        </div>
+
+        <div class="row row-cols-1 row-cols-lg-4 row-cols-md-2">
+
+            <div class="col text-center text-md-start">
+                <i class="icon-beaker icon-medium text-medium-gray margin-20px-bottom d-block"></i>
+                <span class="text-extra-dark-gray alt-font font-weight-600 d-block margin-10px-bottom text-uppercase">
+                    AI Systems & Workflow Orchestration
+                </span>
+                <p>
+                    We design and deploy agentic and generative AI systems that streamline research, document processing, knowledge retrieval, and operational workflows.
+                </p>
+            </div>
+
+            <div class="col text-center text-md-start">
+                <i class="icon-cloud icon-medium text-medium-gray margin-20px-bottom d-block"></i>
+                <span class="text-extra-dark-gray alt-font font-weight-600 d-block margin-10px-bottom text-uppercase">
+                    Secure AWS Cloud Architecture
+                </span>
+                <p>
+                    We architect, migrate, and administer AWS environments built for scalability, compliance, and cost control.
+                </p>
+            </div>
+
+            <div class="col text-center text-md-start">
+                <i class="icon-desktop icon-medium text-medium-gray margin-20px-bottom d-block"></i>
+                <span class="text-extra-dark-gray alt-font font-weight-600 d-block margin-10px-bottom text-uppercase">
+                    Systems Integration & Modernization
+                </span>
+                <p>
+                    We integrate legacy systems with modern cloud and AI services to eliminate silos and improve operational visibility.
+                </p>
+            </div>
+
+            <div class="col text-center text-md-start">
+                <i class="icon-key icon-medium text-medium-gray margin-20px-bottom d-block"></i>
+                <span class="text-extra-dark-gray alt-font font-weight-600 d-block margin-10px-bottom text-uppercase">
+                    Secure Portals & Digital Platforms
+                </span>
+                <p>
+                    We build compliant, user-centered portals for teams, customers, and citizens with security embedded from the ground up.
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- ENGAGEMENT MODEL -->
+
+<!-- ENGAGEMENT MODEL -->
+
+<section class="wow animate__fadeIn position-relative" 
+    style="background-image: url('images/banners/banner-consultant-on-flight.png'); background-size: cover; background-position: center; padding: 100px 0;">
+
+    <!-- Overlay -->
+    <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.65);"></div>
+
+    <div class="container position-relative">
+        
+        <div class="row">
+            <div class="col-lg-8 text-start margin-60px-bottom">
+                <h5 class="alt-font text-white text-uppercase font-weight-700 margin-20px-bottom">
+                    Our Engagement Model
+                </h5>
+                <p class="text-white opacity-8">
+                    We follow a structured, execution-focused methodology designed to minimize risk, ensure compliance, and deliver measurable operational improvement.
+                </p>
+            </div>
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-2 g-5 text-start">
+
+            <!-- Discovery -->
+            <div class="col">
+                <h6 class="text-white font-weight-600 margin-15px-bottom">
+                    1. Discovery & Strategic Assessment
+                </h6>
+                <p class="text-white opacity-8">
+                    We conduct a comprehensive review of your infrastructure, workflows, security posture, and business objectives. 
+                    The outcome is a clear modernization roadmap aligned to budget, regulatory requirements, and growth strategy.
+                </p>
+            </div>
+
+            <!-- Architecture -->
+            <div class="col">
+                <h6 class="text-white font-weight-600 margin-15px-bottom">
+                    2. Architecture & System Design
+                </h6>
+                <p class="text-white opacity-8">
+                    We design secure AI and AWS cloud architectures with governance, compliance, and scalability embedded from the foundation.
+                    Every system is engineered for performance, resilience, and long-term manageability.
+                </p>
+            </div>
+
+            <!-- Deployment -->
+            <div class="col">
+                <h6 class="text-white font-weight-600 margin-15px-bottom">
+                    3. Secure Deployment & Integration
+                </h6>
+                <p class="text-white opacity-8">
+                    We implement production-ready solutions, integrate with existing systems, and apply security controls that meet operational and regulatory standards.
+                </p>
+            </div>
+
+            <!-- Optimization -->
+            <div class="col">
+                <h6 class="text-white font-weight-600 margin-15px-bottom">
+                    4. Continuous Optimization & Advisory
+                </h6>
+                <p class="text-white opacity-8">
+                    We provide ongoing monitoring, performance tuning, and strategic advisory support to ensure your systems evolve alongside your organization.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+
+<!-- CTA -->
+
+<section id="cta" style="background-color:#51a1a6; padding:60px 0;">
+    <div class="container text-center">
+        <h5 class="alt-font text-white font-weight-700 text-uppercase">
+            Ready to Modernize Your Infrastructure?
+        </h5>
+        <p class="text-white opacity-9">
+            Let’s design a practical, scalable technology roadmap tailored to your organization’s goals.
+        </p>
+        <a href="contact.html" class="btn btn-white btn-large">
+            Request a Strategic Consultation
+        </a>
+    </div>
+</section>
+
+<!-- FOOTER -->
+
+<!-- FOOTER -->
+
+<footer style="background-color:#0a0f1c; padding:60px 0 30px 0;">
+
+    <div class="container">
+        <div class="row align-items-start">
+
+            <!-- Logo + Description -->
+            <div class="col-lg-4 margin-40px-bottom">
+                <a href="index.html"><img src="images/brand/st-logo-official.png" alt="StratusTier Innovation Labs" style="max-width:260px; margin-bottom:20px;"></a>
+                
+                <p style="color:#cfd6e4; font-size:14px; line-height:1.7;">
+                    StratusTier Innovation Labs delivers secure AI and AWS cloud solutions 
+                    engineered for scalability, compliance, and operational excellence.
+                </p>
+            </div>
+
+            <!-- Main Menu Links -->
+            <div class="col-lg-4 col-md-6 margin-40px-bottom">
+                <h6 style="color:#ffffff; font-weight:600; margin-bottom:20px;">
+                    Navigation
+                </h6>
+
+              <ul style="list-style:none; padding:0; margin:0;">
+                    <li style="margin-bottom:10px;">
+                        <a href="index.html" style="color:#cfd6e4; text-decoration:none;">Home</a>
+                    </li>
+                    <li style="margin-bottom:10px;">
+                        <a href="about.html" style="color:#cfd6e4; text-decoration:none;">About</a>
+                    </li>
+                    <li style="margin-bottom:10px;">
+                        <a href="services.html" style="color:#cfd6e4; text-decoration:none;">Services</a>
+                    </li>
+                    <li>
+                        <a href="contact.html" style="color:#cfd6e4; text-decoration:none;">Contact</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Contact Info -->
+            <div class="col-lg-4 col-md-6 margin-40px-bottom">
+                <h6 style="color:#ffffff; font-weight:600; margin-bottom:20px;">
+                    Contact
+                </h6>
+
+                <p style="color:#cfd6e4; font-size:14px; margin-bottom:10px;">
+                    Email: info@stratustier.com
+                </p>
+
+                <p style="color:#cfd6e4; font-size:14px;">
+                    Serving Government & Enterprise Clients Nationwide
+                </p>
+            </div>
+
+        </div>
+
+        <!-- Bottom Bar -->
+        <div class="row">
+            <div class="col-12 text-center" style="border-top:1px solid #1e2638; padding-top:20px; margin-top:20px;">
+                <p style="color:#8c96ab; font-size:13px; margin:0;">
+                    © 2026 StratusTier Innovation Labs. All Rights Reserved.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/bootsnav.js"></script>
+<script src="js/theme-vendors.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
